@@ -12,8 +12,8 @@
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
+            buildForAnalyzing ="YES">
+            <BuildableReference 
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C814588B2939EFDC00135263"
                BuildableName = "Copilot.appex"
@@ -22,8 +22,8 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
+            buildForTesting =  "YES"
+            buildForRunning =  "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
